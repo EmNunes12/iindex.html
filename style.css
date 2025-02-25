@@ -1,0 +1,25 @@
+/*
+  style.css - Assignment 3 ( CSS external, internal and inline)
+  ----------------------------------------------------------
+  
+*/
+
+/* page body  */
+body
+ {   color: #004d40; /* text color
+    font-family: 'Georgia', serif; /* text fonts/*
+    background-color: #ffffff; /* background color
+  }
+  
+  /* style for /*
+  <h1> {
+    color: #0097a7; /* title color/*
+    font-size: 36px; /* font-size/* </h1>
+  } </body>
+  
+  /* footer /*
+  </footer> { background-color: #004d40;
+    color: #ffffff;
+    text-align: center;
+      padding: 10px; <footer/>
+      }

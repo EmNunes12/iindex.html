@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assignment 3</title>
+
+  <!-- Link to css external file -->
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    /* internal css example <body> */
+    body {
+      background-color: #e0f7fa; /* color */
+    }
+  </style>
+</head>
+<body>
+  <!-- inline css applied in the element -->
+  <h1 style="color: #006064; font-family: 'Arial', sans-serif;">Welcome to my website</h1>
+
+  <p>
+    This is the paragraph one.
+  </p>
+
+  <p>
+    Este é outro parágrafo. 
+  </p>
+
+  <!--  rodapé -->
+  <footer>
+    <p>&copy; 2025 website</p>
+  </footer>
+</body>
+</html>
+
